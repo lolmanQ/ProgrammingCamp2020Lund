@@ -4,9 +4,10 @@ namespace FoodOrder
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Console.WriteLine("Hello World!");
+			App app = new App();
+			app.Run();
         }
     }
 }

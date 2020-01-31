@@ -1,0 +1,11 @@
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/bin/Debug/netcoreapp3.1/tempTest
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/bin/Debug/netcoreapp3.1/tempTest.deps.json
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/bin/Debug/netcoreapp3.1/tempTest.runtimeconfig.json
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/bin/Debug/netcoreapp3.1/tempTest.runtimeconfig.dev.json
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/bin/Debug/netcoreapp3.1/tempTest.dll
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/bin/Debug/netcoreapp3.1/tempTest.pdb
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.csprojAssemblyReference.cache
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.AssemblyInfoInputs.cache
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.AssemblyInfo.cs
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.dll
+/home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.pdb
