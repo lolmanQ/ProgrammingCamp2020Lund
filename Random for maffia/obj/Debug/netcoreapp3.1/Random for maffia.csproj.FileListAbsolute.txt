@@ -1,0 +1,11 @@
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\bin\Debug\netcoreapp3.1\Random for maffia.exe
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\bin\Debug\netcoreapp3.1\Random for maffia.deps.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\bin\Debug\netcoreapp3.1\Random for maffia.runtimeconfig.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\bin\Debug\netcoreapp3.1\Random for maffia.runtimeconfig.dev.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\bin\Debug\netcoreapp3.1\Random for maffia.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\bin\Debug\netcoreapp3.1\Random for maffia.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\obj\Debug\netcoreapp3.1\Random for maffia.csprojAssemblyReference.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\obj\Debug\netcoreapp3.1\Random for maffia.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\obj\Debug\netcoreapp3.1\Random for maffia.AssemblyInfo.cs
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\obj\Debug\netcoreapp3.1\Random for maffia.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Random for maffia\obj\Debug\netcoreapp3.1\Random for maffia.pdb

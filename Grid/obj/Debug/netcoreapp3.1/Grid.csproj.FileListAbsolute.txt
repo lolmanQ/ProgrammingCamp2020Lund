@@ -1,0 +1,11 @@
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\bin\Debug\netcoreapp3.1\Grid.exe
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\bin\Debug\netcoreapp3.1\Grid.deps.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\bin\Debug\netcoreapp3.1\Grid.runtimeconfig.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\bin\Debug\netcoreapp3.1\Grid.runtimeconfig.dev.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\bin\Debug\netcoreapp3.1\Grid.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\bin\Debug\netcoreapp3.1\Grid.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\obj\Debug\netcoreapp3.1\Grid.csprojAssemblyReference.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\obj\Debug\netcoreapp3.1\Grid.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\obj\Debug\netcoreapp3.1\Grid.AssemblyInfo.cs
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\obj\Debug\netcoreapp3.1\Grid.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\Grid\obj\Debug\netcoreapp3.1\Grid.pdb

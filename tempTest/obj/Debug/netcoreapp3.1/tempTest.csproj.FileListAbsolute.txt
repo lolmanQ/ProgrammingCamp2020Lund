@@ -9,3 +9,14 @@
 /home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.AssemblyInfo.cs
 /home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.dll
 /home/elbo02001/github/ProgrammingCamp2020Lund/tempTest/obj/Debug/netcoreapp3.1/tempTest.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\bin\Debug\netcoreapp3.1\tempTest.exe
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\bin\Debug\netcoreapp3.1\tempTest.deps.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\bin\Debug\netcoreapp3.1\tempTest.runtimeconfig.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\bin\Debug\netcoreapp3.1\tempTest.runtimeconfig.dev.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\bin\Debug\netcoreapp3.1\tempTest.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\bin\Debug\netcoreapp3.1\tempTest.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\obj\Debug\netcoreapp3.1\tempTest.csprojAssemblyReference.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\obj\Debug\netcoreapp3.1\tempTest.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\obj\Debug\netcoreapp3.1\tempTest.AssemblyInfo.cs
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\obj\Debug\netcoreapp3.1\tempTest.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\tempTest\obj\Debug\netcoreapp3.1\tempTest.pdb

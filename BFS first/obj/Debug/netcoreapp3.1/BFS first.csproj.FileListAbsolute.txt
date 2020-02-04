@@ -1,0 +1,11 @@
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\bin\Debug\netcoreapp3.1\BFS first.exe
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\bin\Debug\netcoreapp3.1\BFS first.deps.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\bin\Debug\netcoreapp3.1\BFS first.runtimeconfig.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\bin\Debug\netcoreapp3.1\BFS first.runtimeconfig.dev.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\bin\Debug\netcoreapp3.1\BFS first.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\bin\Debug\netcoreapp3.1\BFS first.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\obj\Debug\netcoreapp3.1\BFS first.csprojAssemblyReference.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\obj\Debug\netcoreapp3.1\BFS first.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\obj\Debug\netcoreapp3.1\BFS first.AssemblyInfo.cs
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\obj\Debug\netcoreapp3.1\BFS first.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\BFS first\obj\Debug\netcoreapp3.1\BFS first.pdb

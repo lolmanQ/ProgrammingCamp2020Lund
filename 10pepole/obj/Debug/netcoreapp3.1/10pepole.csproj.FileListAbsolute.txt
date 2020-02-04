@@ -1,0 +1,11 @@
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\bin\Debug\netcoreapp3.1\10pepole.exe
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\bin\Debug\netcoreapp3.1\10pepole.deps.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\bin\Debug\netcoreapp3.1\10pepole.runtimeconfig.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\bin\Debug\netcoreapp3.1\10pepole.runtimeconfig.dev.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\bin\Debug\netcoreapp3.1\10pepole.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\bin\Debug\netcoreapp3.1\10pepole.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\obj\Debug\netcoreapp3.1\10pepole.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\obj\Debug\netcoreapp3.1\10pepole.AssemblyInfo.cs
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\obj\Debug\netcoreapp3.1\10pepole.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\obj\Debug\netcoreapp3.1\10pepole.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\10pepole\obj\Debug\netcoreapp3.1\10pepole.csprojAssemblyReference.cache

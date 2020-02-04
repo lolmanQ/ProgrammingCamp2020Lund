@@ -1,0 +1,11 @@
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\bin\Debug\netcoreapp3.1\maxSumPath.exe
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\bin\Debug\netcoreapp3.1\maxSumPath.deps.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\bin\Debug\netcoreapp3.1\maxSumPath.runtimeconfig.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\bin\Debug\netcoreapp3.1\maxSumPath.runtimeconfig.dev.json
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\bin\Debug\netcoreapp3.1\maxSumPath.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\bin\Debug\netcoreapp3.1\maxSumPath.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\obj\Debug\netcoreapp3.1\maxSumPath.AssemblyInfoInputs.cache
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\obj\Debug\netcoreapp3.1\maxSumPath.AssemblyInfo.cs
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\obj\Debug\netcoreapp3.1\maxSumPath.dll
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\obj\Debug\netcoreapp3.1\maxSumPath.pdb
+C:\Users\elias\Documents\GitHub\ProgrammingCamp2020Lund\maxSumPath\obj\Debug\netcoreapp3.1\maxSumPath.csprojAssemblyReference.cache
